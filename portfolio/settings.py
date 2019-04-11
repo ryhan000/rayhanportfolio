@@ -101,6 +101,8 @@ AUTH_PASSWORD_VALIDATORS = [
 ]
 
 
+ALLOWED_HOSTS = ['104.248.28.21']
+
 # Internationalization
 # https://docs.djangoproject.com/en/2.1/topics/i18n/
 
